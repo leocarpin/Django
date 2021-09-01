@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Django 1 Teste</title>
+</head>
+<body>
+    <h1> Bla bla index 123   </h1>
 
+    <h2> Teste de h2:{{Chave1str}}</h2>
+
+    <h3> Teste de h3 com chave no views: {{'Chave2str'}}</h3>
+
+</body>
+</html>
